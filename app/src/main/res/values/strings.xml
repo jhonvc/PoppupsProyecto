@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopPups</string>
+    <string name="titulo">MI PROYECTO</string>
+
+    <string name="Nombre_jhon">Ronaldo</string>
+    <string name="nombre_victor">Mbappe</string>
+    <string name="Nombre_daniel">Griezman</string>
+
+    <string name="Frace_jhon">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry aea</string>
+    <string name="Frace_victor">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry gaea</string>
+    <string name="Frace_daniel">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry XD</string>
+
+    <string name="biografia_jhon">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="Biografia_victor">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="Bioografia_daniel">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+
+    <string name="autor">Autor</string>
+    <string name="informacion">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+
+
+</resources>
